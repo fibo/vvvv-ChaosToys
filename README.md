@@ -1,7 +1,7 @@
 Chaos Toys
 ==========
 
-![ChaosToys!](http://1.2.3.11/bmi/vvvv.org/sites/default/files/imagecache/large/LorenzAttractor2%20%28Animation%29%20help-DirectX%20Renderer_2010.07.18-03.05.13.jpg)
+![ChaosToys!](https://raw.github.com/fibo/vvvv-ChaosToys/master/images/LorentzAttractor.png)
 
 Apparently simple equations can have unpredictable behaviuor, with completely different results depending on initial conditions ... a butterfly flapping its wings in Tokyo could cause tornadoes in California.
 
